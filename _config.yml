@@ -1,0 +1,6 @@
+plugins:
+  - jekyll-redirect-from
+
+  redirects:
+  - from: /home
+    to: http://google.com
