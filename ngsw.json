@@ -9,7 +9,6 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/manifest.json",
         "/inline.8e3af39b32c049574c81.bundle.js",
         "/main.82e99a4ebf3472fed4a0.bundle.js",
         "/polyfills.f039bbc7aaddeebcb9aa.bundle.js",
@@ -88,7 +87,6 @@
     "/assets/calendarWhite.svg": "a156828dc0d25cad1644cf59187f1ec2b976c4fe",
     "/index.html": "326fc6e38a61abee38adacd26cf34b7e93362db7",
     "/assets/delete.svg": "dfcee1098172f8062429c28fe5e56dfcbd0a69b7",
-    "/manifest.json": "2c4610bd1dcdb9244eb72b3cbcc08be93de24393",
     "/assets/editButton.svg": "2fc0984e2cc128a69c1be489c9770f36cdfa7d8a",
     "/assets/EventDefault.jpg": "2750eda30ca99b89aa24fa9ded0b83a43f84f359",
     "/assets/gogol_1.jpg": "e868ffff41520f277ccb1ebd5d3112649429391c",
