@@ -54,7 +54,20 @@
         "/assets/type-event/letteratura.jpg",
         "/assets/type-event/manuali.jpg",
         "/assets/type-event/tempo-libero.jpg",
-        "/assets/type-event/thriller.jpg"
+        "/assets/type-event/thriller.jpg",
+        "/icons/favicon-16x16.png",
+        "/icons/favicon-32x32.png",
+        "/icons/favicon-48x48.png",
+        "/icons/favicon-48x48.svg",
+        "/icons/icon-128x128.png",
+        "/icons/icon-144x144.png",
+        "/icons/icon-168x168.png",
+        "/icons/icon-192x192.png",
+        "/icons/icon-255x255.png",
+        "/icons/icon-340x340.png",
+        "/icons/icon-512x512.png",
+        "/icons/icon-72x72.png",
+        "/icons/icon-96x96.png"
       ],
       "patterns": [
         "https:\\/\\/fonts\\.googleapis\\.com\\/css\\?family=EB\\+Garamond"
@@ -102,6 +115,19 @@
     "/assets/type-event/letteratura.jpg": "bf668c363b673288d6bedc014a81a103b4496c3f",
     "/assets/type-event/manuali.jpg": "19947f9397fb6b3c2271bf76251de4eb0c549420",
     "/assets/type-event/tempo-libero.jpg": "cf421ec266323d0b621b9b858f2e019d55853183",
-    "/assets/type-event/thriller.jpg": "18e4cce1652d523d5647d93b269402f12abd7bea"
+    "/assets/type-event/thriller.jpg": "18e4cce1652d523d5647d93b269402f12abd7bea",
+    "/icons/favicon-16x16.png": "7313c16e66abd63db2ebc19b29b8c17f80ff9b35",
+    "/icons/favicon-32x32.png": "4b94731cdb9b8881ab451a07a5efe7f43373f93f",
+    "/icons/favicon-48x48.png": "0b94bb974bfc5a2a2927ca3b190151848d0023eb",
+    "/icons/favicon-48x48.svg": "8f6d6d9046480683a1df4b4e664436c9959a1008",
+    "/icons/icon-128x128.png": "760db885ba12adea5c77e675d0722de89ad63c23",
+    "/icons/icon-144x144.png": "c562039f169f674acd6f6c7a23cee2535cc9ddfd",
+    "/icons/icon-168x168.png": "b40520270e6821c2c4dc065a5007d64f97c9e0b1",
+    "/icons/icon-192x192.png": "2d345df2a42922c921d01b6f6c87364ac9288ee0",
+    "/icons/icon-255x255.png": "889e4cf465cebd7561fe8b0e5ee46459edf73cbf",
+    "/icons/icon-340x340.png": "ac8c69407ca11fcd3b316f03d0230c287becfeed",
+    "/icons/icon-512x512.png": "2db79f6a871429a4fd93a12a5080f57bc22b3e1a",
+    "/icons/icon-72x72.png": "6c685055efbea1d05ee240cb245c1c7615d0a139",
+    "/icons/icon-96x96.png": "50042f0cf0c59b65183f2373d06c5088bdbcfd3c"
   }
 }
