@@ -9,10 +9,10 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/inline.dd7521e96e9653d1e1b3.bundle.js",
-        "/main.70f1df0fdf5567dc2d18.bundle.js",
+        "/inline.8088e3bec6dd5b19d8a1.bundle.js",
+        "/main.00f49f2f9bc34efcab05.bundle.js",
         "/polyfills.f039bbc7aaddeebcb9aa.bundle.js",
-        "/styles.2db53899b8fc90ed1d9d.bundle.css"
+        "/styles.f63dead93f4e2728a485.bundle.css"
       ],
       "patterns": []
     },
@@ -28,7 +28,6 @@
         "/assets/calendarWhite.svg",
         "/assets/delete.svg",
         "/assets/editButton.svg",
-        "/assets/EventDefault.jpg",
         "/assets/gogol_1.jpg",
         "/assets/loginBkg.jpg",
         "/assets/loginBkgMobile.jpg",
@@ -80,27 +79,24 @@
         "/icons/icon-72x72.png",
         "/icons/icon-96x96.png"
       ],
-      "patterns": [
-        "https:\\/\\/fonts\\.googleapis\\.com\\/css\\?family=EB\\+Garamond"
-      ]
+      "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/inline.dd7521e96e9653d1e1b3.bundle.js": "694e7d862de37a3d7baee5bde0abcadde5110859",
+    "/inline.8088e3bec6dd5b19d8a1.bundle.js": "3df11370755e341b91a4fecd141af2aceef5d8d1",
     "/assets/404error.png": "52aad1f6286ff460bcf5fee2892fd56ac955d8e5",
-    "/main.70f1df0fdf5567dc2d18.bundle.js": "168e84dcf91bf4c1178d8e683a52cbe35723c3aa",
+    "/main.00f49f2f9bc34efcab05.bundle.js": "204b1169cf3c4bde5c1307ad17ed21f6136b0799",
     "/assets/back_black.svg": "fe4c79044e494aa7c80989a5399b9754f64bc325",
     "/polyfills.f039bbc7aaddeebcb9aa.bundle.js": "669df48deb7f2148518a6e8e9490ba8ee2db7000",
     "/assets/bookmark.svg": "65779dc29e2fa26cd6355eee711b247ad59e94d8",
-    "/styles.2db53899b8fc90ed1d9d.bundle.css": "2dff1b4fa553a18754c84705a42383c9aac766ef",
+    "/styles.f63dead93f4e2728a485.bundle.css": "9ccd9d902a28fb593a292074a4945e42d745f15e",
     "/assets/calendarBlack.svg": "9d479796be419e4d05d86abcc0974e576bce4f7d",
     "/favicon.ico": "84271bb6911d0bab323f1934fc0ad64dff05d30c",
     "/assets/calendarWhite.svg": "a156828dc0d25cad1644cf59187f1ec2b976c4fe",
-    "/index.html": "e330e622d308fcfe0209f168bb49a2150c10df4a",
+    "/index.html": "566ccfb1b7c62b2c25dbc8487f292d5a5f964113",
     "/assets/delete.svg": "dfcee1098172f8062429c28fe5e56dfcbd0a69b7",
     "/assets/editButton.svg": "2fc0984e2cc128a69c1be489c9770f36cdfa7d8a",
-    "/assets/EventDefault.jpg": "2750eda30ca99b89aa24fa9ded0b83a43f84f359",
     "/assets/gogol_1.jpg": "e868ffff41520f277ccb1ebd5d3112649429391c",
     "/assets/loginBkg.jpg": "b6e13725cdc6b1caa68eb665159d63bf819e75dc",
     "/assets/loginBkgMobile.jpg": "07c83b3e8d17d6141ffa55d158f43547b0b19013",
