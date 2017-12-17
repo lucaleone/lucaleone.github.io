@@ -117,6 +117,6 @@ maintained libraries used by this software which have their own
 licenses; we recommend you read them, as their terms may differ from the
 terms above.
 
-@angular/core@5.1.0
+@angular/core@5.1.1
 MIT
 MIT
