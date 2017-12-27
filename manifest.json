@@ -4,6 +4,7 @@
   "name": "ilClub",
   "short_name": "ilClub",
   "description": "cose...",
+  "scope": "/",
   "icons": [
     {
       "src": "icons/favicon-48x48.png",
